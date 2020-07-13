@@ -5,7 +5,7 @@ Created by:
 
 This project contains trends of daily and total confirmed cases, death toll and recovered cases by States in U.S. and by countries. 
 
-[**Data Source**](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data#data-sources)
+**Data Source**
 
-Data used for this project is published by John Hopkins CSSE.
+Data used for this project is published by [John Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data#data-sources).
 
