@@ -9,7 +9,7 @@ This project contains trends of daily and total confirmed cases, death toll and 
 
 This Juypter notebook includes daily trends of confirmed cases, death toll and fatality rate by states.
 
-If you get the message "Sorry, something went wrong. Reload?" when viewing a jupyter notebook, you could click this [link](https://nbviewer.jupyter.org/github/zhangym1256/COVID19/blob/master/Covid_19_US.ipynb) to view the file. 
+If you get the message "Sorry, something went wrong. Reload?" when viewing a jupyter notebook, you could access the file [here](https://nbviewer.jupyter.org/github/zhangym1256/COVID19/blob/master/Covid_19_US.ipynb).
 
 [**COVID_19_Global**](https://github.com/zhangym1256/COVID19/blob/master/COVID_19_Global.ipynb)
 
