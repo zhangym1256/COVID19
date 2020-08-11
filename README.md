@@ -5,7 +5,7 @@ Created by:
 
 This project contains trends of daily and total confirmed cases, death toll and recovered cases by States in U.S. and by countries. 
 
-If you have issues loading any files, you can follow this [link](https://nbviewer.jupyter.org/github/zhangym1256/COVID19/tree/master/) to access the repository. 
+**If you have issues loading any files, you can follow this [link](https://nbviewer.jupyter.org/github/zhangym1256/COVID19/tree/master/) to access the repository. **
 
 [**COVID_19_US**](https://github.com/zhangym1256/COVID19/blob/master/Covid_19_US.ipynb)
 
